@@ -1,0 +1,3 @@
+Build with:
+
+docker build -t ermlab/collectd .
